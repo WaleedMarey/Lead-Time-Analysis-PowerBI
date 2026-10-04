@@ -35,7 +35,8 @@ Confirmation → Readiness → Shipping → Banking → Clearance
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard_Overview.png)
+<img width="1250" height="812" alt="image (5)" src="https://github.com/user-attachments/assets/30704424-0ce7-4a07-825e-27de17886b42" />
+
 
 ## Dataset
 
@@ -43,6 +44,4 @@ The dataset used in this project is synthetic data generated with
 the assistance of AI for demonstration purposes only.
 It does not represent actual company or supplier data.
 
-## Interactive Report
 
-[View Interactive Power BI Report](YOUR_POWER_BI_LINK)
